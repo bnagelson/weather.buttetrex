@@ -8,6 +8,6 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Weather"
-      href: weather.html
+      href: Weather.html
       
       
