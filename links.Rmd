@@ -12,7 +12,11 @@ title: "Links"
 
 * Use [metoblue](https://www.meteoblue.com/en/weather/forecast/multimodelensemble/forest-ranch_united-states_5349956) to compare forecasts from different weather models.
 * [Tropical Tidbits](https://www.tropicaltidbits.com/analysis/models/?model=gfs&region=wus&pkg=apcpn&runtime=2022101118&fh=6) offers dozens of parameters from the main models.
-* [Pivotal Weather](https://www.pivotalweather.com/model.php?p=sfcrh) is very similar to tropical tidbits.
+* [Pivotal Weather](https://www.pivotalweather.com/model.php?p=sfcrh) is very similar to tropical tidbits, with some better functionality for comparing models and exporting images.
 
 # Blogs
 * Danial Swain, a.k.a. [Weather West](weatherwest.com), periodically writes a blog about macro-scale weather phenomena impacting California and the west, often providing relevant context for wildfire and drought concerns. 
+
+# Imagery
+
+* GOES-17 Satellite imagery from [College of DuPage](https://weather.cod.edu/satrad/?parms=local-N_California-truecolor-24-1-100-1&checked=map&colorbar=undefined)

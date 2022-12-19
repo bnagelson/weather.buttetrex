@@ -5,10 +5,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Weather"
-      href: Weather.html
     - text: "Link Library"
       href: links.html
       

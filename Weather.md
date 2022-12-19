@@ -1,5 +1,8 @@
 ---
 title: "Weather Narrative"
+output:
+  bookdown::html_document2: 
+    keep_md: true
 ---
 
 # Nov. 21 - 27
@@ -49,7 +52,18 @@ Storm moves out of the region this afternoon. Dry and clear on Wednesday, then a
 
 __Recap:__ Significant precipitation fell across the region since early Thursday morning. The RAWS at Cohasset and Quincy recieved nearly 3.5 inches of moisture.
 
-[![Accumulated precipitation over the last 7 days for the Cohasset RAWS ](12.5/Cohasset_time_chart_precip.png){width=75%}](https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSTC1&unit=0&time=LOCAL&product=&year1=2022&month1=12&day1=05&hour1=07&hours=24&graph=1&past=1&order=1)
+
+<!-- [![Accumulated precipitation over the last 7 days for the Cohasset RAWS ](12.5/Cohasset_time_chart_precip.png){width=75%}](https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSTC1&unit=0&time=LOCAL&product=&year1=2022&month1=12&day1=05&hour1=07&hours=24&graph=1&past=1&order=1)[r] -->
+
+
+```r
+knitr::include_graphics("12.5/Cohasset_time_chart_precip.png")
+```
+
+<div class="figure">
+<img src="12.5/Cohasset_time_chart_precip.png" alt="&lt;a href=&quot;https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSTC1&amp;unit=0&amp;time=LOCAL&amp;product=&amp;year1=2022&amp;month1=12&amp;day1=05&amp;hour1=07&amp;hours=24&amp;graph=1&amp;past=1&amp;order=1&quot;&gt;mesowest&lt;/a&gt;" width="65%" style="float:right; padding:10px" />
+<p class="caption">(\#fig:unnamed-chunk-1)<a href="https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSTC1&unit=0&time=LOCAL&product=&year1=2022&month1=12&day1=05&hour1=07&hours=24&graph=1&past=1&order=1">mesowest</a></p>
+</div>
 
 __Two storms this week:__ A quick-moving storm could bring up to an inch of moisture to the Forest Ranch area late Thursday night into early Friday morning. The second storm arrives later Friday afternoon and looks to be much wetter: 2.5 inches of moisture could fall between late Friday afternoon and Sunday morning. 
 
@@ -58,12 +72,42 @@ __Two storms this week:__ A quick-moving storm could bring up to an inch of mois
 __Recap__: The wettest storm of the 2022-23 winter so far is leaving the region today. Anywhere from 2-4" of moisture fell between Thursday and Sunday night, depending on elevation and topographic position. The Forest Ranch area picked up around 2.5". Most Sierra weather stations have received many times the snow-water-equivalent for this point in the water year so far. 
 
 
-__Near-term__: Most of northern California will see lower than average temperatures this week. Daytime highs in the mid-40s and lows near freezing for the foothills of Butte county. After the system moves out today (Monday), we are looking dry through at least Thursday. There are chances for another round of light precipitation over the weekend. 
+__Near-term__: Most of northern California will see lower than average temperatures this week. Daytime highs in the mid-40s and lows near freezing for the foothills of Butte county. After the system moves out today (Monday), we are looking dry through at least Thursday. There are chances for another round of light precipitation over the weekend, but those chances have trended downwards over the last few days. 
 
 
-__Long-term__: Per a few sources ([Danial Swain](weatherwest.com), but also [NWS Climate Prediction Center](https://www.cpc.ncep.noaa.gov/)), our future is more likely to be drier-than-average than wetter-than-average. It is, however, unlikely that we'll see another 50+day dry spell like last winter, given how anomalous of an event that was. 
+__Long-term__: Per a few sources ([Danial Swain](weatherwest.com), but also [NWS Climate Prediction Center](https://www.cpc.ncep.noaa.gov/)), our future is more likely to be drier-than-average than wetter-than-average. 
 
 
+(ref:cap) See this [link](http://pkgs.rstudio.com/)
 
+
+```r
+plot(mtcars)
+```
+
+<div class="figure">
+<img src="Weather_files/figure-html/unnamed-chunk-2-1.png" alt="(ref:cap)"  />
+<p class="caption">(\#fig:unnamed-chunk-2)(ref:cap)</p>
+</div>
+
+
+```r
+plot(mtcars)
+```
+
+<div class="figure">
+<img src="Weather_files/figure-html/unnamed-chunk-3-1.png" alt="See this site http://pkgs.rstudio.com/"  />
+<p class="caption">(\#fig:unnamed-chunk-3)See this site http://pkgs.rstudio.com/</p>
+</div>
+
+
+```r
+plot(mtcars)
+```
+
+<div class="figure">
+<img src="Weather_files/figure-html/unnamed-chunk-4-1.png" alt="&lt;a href=&quot;http://www.google.com&quot;&gt;link&lt;/a&gt;"  />
+<p class="caption">(\#fig:unnamed-chunk-4)<a href="http://www.google.com">link</a></p>
+</div>
 
 

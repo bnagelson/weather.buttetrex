@@ -13,7 +13,6 @@
 
 <title>Weather Narrative</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -253,12 +252,6 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="about.html">About</a>
-</li>
-<li>
-  <a href="Weather.html">Weather</a>
-</li>
-<li>
   <a href="links.html">Link Library</a>
 </li>
       </ul>
@@ -278,6 +271,22 @@ $(document).ready(function () {
 </div>
 
 
+<style type="text/css">
+.my-right-figure {
+  display: table;
+  float: right;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+.my-right-figure p + p {
+  display: table-caption;
+  caption-side: bottom;
+  padding-left: 30px
+}
+.figure {
+  display: contents;
+}
+</style>
 <div id="nov.-21---27" class="section level1">
 <h1>Nov. 21 - 27</h1>
 <p>Nothing exciting for the next few days (slight warming trend), then
@@ -338,10 +347,15 @@ Saturday-Sunday.</p>
 <p><strong>Recap:</strong> Significant precipitation fell across the
 region since early Thursday morning. The RAWS at Cohasset and Quincy
 recieved nearly 3.5 inches of moisture.</p>
-<p><a
-href="https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSTC1&amp;unit=0&amp;time=LOCAL&amp;product=&amp;year1=2022&amp;month1=12&amp;day1=05&amp;hour1=07&amp;hours=24&amp;graph=1&amp;past=1&amp;order=1"><img
-src="12.5/Cohasset_time_chart_precip.png" style="width:75.0%"
-alt="Accumulated precipitation over the last 7 days for the Cohasset RAWS" /></a></p>
+<!-- [![Accumulated precipitation over the last 7 days for the Cohasset RAWS ](12.5/Cohasset_time_chart_precip.png){width=75%}](https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSTC1&unit=0&time=LOCAL&product=&year1=2022&month1=12&day1=05&hour1=07&hours=24&graph=1&past=1&order=1)[r] -->
+<div class="my-right-figure">
+<div class="figure" style="text-align: right">
+<img src="12.5/Cohasset_time_chart_precip.png" alt="&lt;a href=&quot;https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSTC1&amp;unit=0&amp;time=LOCAL&amp;product=&amp;year1=2022&amp;month1=12&amp;day1=05&amp;hour1=07&amp;hours=24&amp;graph=1&amp;past=1&amp;order=1&quot;&gt;mesowest&lt;/a&gt;" width="468" />
+<p class="caption">
+<a href="https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSTC1&unit=0&time=LOCAL&product=&year1=2022&month1=12&day1=05&hour1=07&hours=24&graph=1&past=1&order=1">mesowest</a>
+</p>
+</div>
+</div>
 <p><strong>Two storms this week:</strong> A quick-moving storm could
 bring up to an inch of moisture to the Forest Ranch area late Thursday
 night into early Friday morning. The second storm arrives later Friday
@@ -361,14 +375,58 @@ lower than average temperatures this week. Daytime highs in the mid-40s
 and lows near freezing for the foothills of Butte county. After the
 system moves out today (Monday), we are looking dry through at least
 Thursday. There are chances for another round of light precipitation
-over the weekend.</p>
+over the weekend, but those chances have trended downwards over the last
+few days.</p>
 <p><strong>Long-term</strong>: Per a few sources (<a
 href="weatherwest.com">Danial Swain</a>, but also <a
 href="https://www.cpc.ncep.noaa.gov/">NWS Climate Prediction
 Center</a>), our future is more likely to be drier-than-average than
-wetter-than-average. It is, however, unlikely that we’ll see another
-50+day dry spell like last winter, given how anomalous of an event that
-was.</p>
+wetter-than-average.</p>
+</div>
+<div id="dec.-19-25" class="section level1">
+<h1>Dec. 19-25</h1>
+<p>We’ve remained dry since the last round of storms moved out of the
+region on Monday (12/12) morning. Recapping the water year so far in
+terms of snowpack, all three regions of the Sierra are doing pretty
+good…</p>
+<div class="figure" style="text-align: center">
+<img src="12.19/SierraSnowpack_12.19.jpg" alt="&lt;a href=&quot;https://cdec.water.ca.gov/snowapp/sweq.action&quot;&gt;CA DWR&lt;/a&gt;" width="269" />
+<p class="caption">
+<a href="https://cdec.water.ca.gov/snowapp/sweq.action">CA DWR</a>
+</p>
+</div>
+<p>In terms of precipitation (not just snowpack), the story for Butte
+county is different for the valley vs. the foothills and mountains. The
+flat lands look to be just below average over the last 30 days, while
+the uplands are riding just above average.</p>
+<div class="figure" style="text-align: center">
+<img src="12.19/30-day-percent-of-normal-precipitation-12-19-2022.png" alt="Drought.gov and Mesowest" width="49%" height="20%" /><img src="12.19/cohasset_last30days.png" alt="Drought.gov and Mesowest" width="49%" height="20%" />
+<p class="caption">
+Drought.gov and Mesowest
+</p>
+</div>
+<p><strong>This Week</strong>: Generally, cloudy skies with valley fog,
+high Rh’s (60-70), and light winds are the story this week. We see some
+chances for precipitation on Tuesday evening into Wednesday morning for
+the foothills, but accumulations don’t look to be higher than two tenths
+of moisture. A smaller cell of moisture passes through on Thursday night
+into Friday, but we likely won’t see any rain or snow in Butte county.
+We might see some slightly elevated winds out of the north ahead of this
+cell early Wednesday morning. Strong inversion forecasted for this
+weekend, meaning valley fog and above-average temperatures in the
+foothills/mountains.</p>
+<p><strong>Next Week</strong>: There are signs pointing towards the
+potential for wetter conditions returning by the middle of next week.
+The mixed signals are classic: some models show meaningful precipitation
+impacting the Sierras, while others show the storm track staying just to
+our north.</p>
+<div class="figure" style="text-align: center">
+<img src="12.19/500h_anom.na_EMCWF_12.28.png" alt="Story of two models. Left: Only far northern CA  sees a taste of precip, Right: low pressure (and precip) sets in over the northern half of CA." width="49%" height="20%" /><img src="12.19/500h_anom.na_GFS_12.28.png" alt="Story of two models. Left: Only far northern CA  sees a taste of precip, Right: low pressure (and precip) sets in over the northern half of CA." width="49%" height="20%" />
+<p class="caption">
+Story of two models. Left: Only far northern CA sees a taste of precip,
+Right: low pressure (and precip) sets in over the northern half of CA.
+</p>
+</div>
 </div>
 
 

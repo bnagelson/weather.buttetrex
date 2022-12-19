@@ -1,27 +1,26 @@
 {
-    "id": "43E552D4",
-    "path": "~/TREX/Fall 2022/Website/bnagelson.github.io/links.Rmd",
-    "project_path": "links.Rmd",
+    "id": "4BEF933F",
+    "path": "~/TREX/Fall 2022/Website/bnagelson.github.io/index.Rmd",
+    "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3214048183",
     "contents": "",
     "dirty": false,
-    "created": 1670826349034.0,
+    "created": 1671475224882.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
-        "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,222",
-        "scrollLine": "9"
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1670826002,
+    "lastKnownWriteTime": 1671475292,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670826002,
+    "last_content_update": 1671475293005,
     "read_only": false,
     "read_only_alternatives": []
 }
