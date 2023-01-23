@@ -16,6 +16,7 @@ title: "Links"
 
 # Blogs
 * Danial Swain, a.k.a. [Weather West](weatherwest.com), periodically writes a blog about macro-scale weather phenomena impacting California and the west, often providing relevant context for wildfire and drought concerns. 
+* Brian Allegretto writes an excellent daily blog for OpenSnow. Unfortunately, it requires a subscription ($30/year),
 
 # Imagery
 
