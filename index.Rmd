@@ -130,3 +130,31 @@ knitr::include_graphics("1.20.23/20230117_ca_text.png")
 **This Week:** We'll keep the dry and windy period going through this week before some [inside-sliders](https://www.youtube.com/watch?v=9RQIV8WM2LY&ab_channel=ABC10) bring the potential for light precip over the weekend. The precipitation picture for the weekend is still unclear, but overall amounts on the high-end of the forecast range are still relatively low (<0.5"). This week, we'll see north winds with period of higher gusts on Wednesday afternoon into early Thursday morning. 
 
 **Beyond:** There is the potential for additional precipitation during the first week of February. If they materialize, these storms would be mild compared to what we've seen over the last month and a half. Right now, we do not see an imminent return to a prolonged wet pattern. Beyond, the NWS Climate Prediction Center is calling for above-normal precipitation during the 10-day, 14-day, and 3-4 week outlooks. However, these are outlooks and not forecasts, which is to say that they should be treated as speculative. The potential for a drier pattern to remain in place is there and touted by some as the more likely scenario. Brian Allegretto, in his daily snow forecast discussion for the Tahoe area this morning, provided this insight for February: "That doesn't mean no storms. We can see the pattern shift at times to allow in a storm, but overall from what I'm seeing currently it looks like the rest of the month could see below-average precipitation in total. We'll have to see how the first week of the month turns out. Hopefully, I'm wrong." 
+
+# February 6-12
+
+**Daniel Swain** recaps the [December-January storm cycle](weatherwest.com) in California. 
+
+We can expect north winds today through tomorrow morning with a air moving from areas of high pressure in the north/east towards the low pressure in the south/west. The stronger winds may be isolated to channeled terrain like the Feather River canyon. We'll see calmer winds reverting back to the regular SW flow during the day Tuesday/Tuesday night before again flipping to back to a north-wind pattern for Wednesday. These flip-floppy winds, while not too strong overall, should keep skies clear and prevent inversions from establishing in our area. 
+
+Our next chance for precipitation arrives on Friday. Between Friday morning and midday Saturday, the middle elevations of Butte county could see as much as 0.3" on the high end. However, it's possible that only NW CA will see any meaningful precipitation as the system stays farther to our north. 
+
+**Beyond**, our our next storm sets up around 2/14. 
+
+# February 13-19
+
+- An inside-slider system will bring north winds to the area today lasting through Wednesday. The strongest winds will for the Butte county foothills will be midday today through early Wednesday morning (15-20mph with gusts 25-35).  
+- Chances for precip starting Thursday evening into Friday morning, but the potential for anything more than 0.2" is low. Like the system that was forecast for last Friday/Saturday, it may end up providing wetting precip to the higher elevations. 
+
+The weekend: we remain in a N-wind pattern, but current forecast shows no gusts. Sustained speeds around 10 now. 
+
+It appears that the table might be set for a troughing pattern to establish later next week (around the 22nd/23rd). This is only to say that the storm door will be open, but not necessarily active. The takeaway: we do not plan on seeing another single or parade of ARs any time soon. 
+
+# February 27
+Let's just say I was probably a little over-eager in suggesting that ARs will not impact CA in the near-term.... Snow fell down to ~1,000ft across much of CA during the last few days, and more is on the way over the next 48 hours. The [NWS point forecast for BCCER](https://forecast.weather.gov/MapClick.php?CityName=Forest+Ranch&state=CA&site=STO&textField1=39.8822&textField2=-121.672&e=0#.Y_zyaHbMLcB) shows the potential for over a foot of snow by end of day tomorrow! Snow levels will fluctuate around 1000ft during the main period of precipitation expected to last into tomorrow evening. Freezing levels could drop below 1000ft late tomorrow night. The Center for Western Weather and Water Extremes maintains an excellent [dashboard](https://cw3e.ucsd.edu/DSMaps/DS_freezing.html) showing watershed-level precipitation forecasts by precipitation type. 
+
+**What's ahead:** After a break on Thursday/Friday, the chances for more precipitation remain high into the first full week of March. Colder than average temperatures should remain in place across the northern half of CA through mid-March. the precipitation outlook into the second week of March is foggy. Brian Allegretto described the uncertainty in his blog post this morning: "We could see a brief break by the 9th, but by the 10th=11th through mid-month, the long-range models are still trending toward a shift in the pattern from a cold/wet pattern to a warmer/wet pattern....But with the convection near the equator moving through the eastern Pacific from the active phase of the MJO circulation, it can strengthen the circulations northward and strengthen and help to extend the jet stream towards the West Coast coming inland on the north side of the ridge and south side of the troughs to the north, which only helps to amplify the jet and storms....The long-range models are continuing to show wetter storms moving west to east across the Pacific into CA by the 10th and beyond. These would likely be warmer storms with fluctuating snow levels and rain at times on top of the deep snowpack, and possibly a couple of stronger AR (atmospheric river) events. They show above average precip continuing for the 8th-14th, and you can see the source to the west."
+
+
+
+
